@@ -1,0 +1,12 @@
+{
+  "name": "testing-preload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": " https://github.com/andresfulla/testing-preload.git",
+  "author": "Andrés Fulla",
+  "license": "ISC"
+}
